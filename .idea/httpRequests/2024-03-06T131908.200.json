@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Practical Soft Sausages",
+    "description": "Awesome Soft Hat",
+    "category": "Small Soft Towels",
+    "price": 590.76,
+    "quantityAvailable": 206
+  },
+  {
+    "id": 3,
+    "name": "Ergonomic Fresh Car",
+    "description": "Hic beatae vel et. Porro ex minus earum saepe velit qui ut. Soluta harum est qui distinctio. Explicabo quos officia omnis.",
+    "category": null,
+    "price": 0.0,
+    "quantityAvailable": 0
+  },
+  {
+    "id": 4,
+    "name": "Licensed Plastic Computer",
+    "description": "Soluta fugit molestiae esse voluptatem quod. Aliquam in neque debitis voluptas ea. Et quae ut veritatis dicta. Reprehenderit ea voluptatem corporis dolorem deleniti enim.",
+    "category": null,
+    "price": 0.0,
+    "quantityAvailable": 0
+  },
+  {
+    "id": 5,
+    "name": "Fantastic Plastic Fish",
+    "description": "Sit ut non. Suscipit aut qui tempora est voluptates harum vero ut repudiandae. Quis quo est. Aut maxime neque dolores enim sunt occaecati quam. Nesciunt accusantium corporis sit debitis perferendis ratione voluptatem. Omnis sapiente blanditiis at labore.",
+    "category": "Handmade Cotton Fish",
+    "price": 424.21,
+    "quantityAvailable": 880
+  },
+  {
+    "id": 6,
+    "name": "Incredible Granite Cheese",
+    "description": "Aut in nulla reiciendis veritatis ut. Temporibus voluptas sit odio natus sed voluptatem sit eum et. Est eius fugit sit voluptatem suscipit.",
+    "category": "Awesome Concrete Ball",
+    "price": 717.94,
+    "quantityAvailable": 978
+  },
+  {
+    "id": 7,
+    "name": "Sleek Wooden Pizza",
+    "description": "Corporis eum dolores soluta impedit quasi dolore dolore. Et odio aut quo voluptatibus hic delectus velit est. Aperiam culpa rem incidunt hic.",
+    "category": "Refined Concrete Mouse",
+    "price": 272.86,
+    "quantityAvailable": 173
+  }
+]
